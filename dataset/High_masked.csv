@@ -1,0 +1,201 @@
+TYPE,SENTENCE,ITEM
+Object-Extraction,Who do you wanna take to the station [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the station [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the airport [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the airport [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the library [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the library [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the museum [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the museum [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the hospital [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the hospital [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the university [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the university [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the restaurant [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the restaurant [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the zoo [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the zoo [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the hotel [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the hotel [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the office [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the office [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the school [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the school [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the bank [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the bank [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the beach [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the beach [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the concert [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the concert [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the store [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the store [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the bus stop [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the bus stop [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the classroom [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the classroom [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the park [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the park [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the mall [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the mall [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the shop [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the shop [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the amusement park [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the amusement park [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the aquarium [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the aquarium [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the theater [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the theater [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the basement [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the basement [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the toy store [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the toy store [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the bookstore [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the bookstore [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the bakery [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the bakery [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the terminal [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the terminal [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the coffee shop [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the coffee shop [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the market [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the market [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the gallery [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the gallery [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the shopping mall [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the shopping mall [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the post office [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the post office [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the clinic [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the clinic [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the gym [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the gym [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the pool [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the pool [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the party [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the party [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the show [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the show [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the festival [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the festival [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the audition [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the audition [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the competition [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the competition [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the race [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the race [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the contest [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the contest [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the match [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the match [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the wedding [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the wedding [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the ceremony [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the ceremony [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the rally [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the rally [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the seminar [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the seminar [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the conference [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the conference [MASK]?,tomorrow
+Object-Extraction,Who do you wanna take to the meeting [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna go to the meeting [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the meeting [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the meeting [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the lecture [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the lecture [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the show [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the show [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the contest [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the contest [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the ceremony [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the ceremony [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the conference [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the conference [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the race [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the race [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after school [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after school [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after breakfast [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after breakfast [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after lunch [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after lunch [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after dinner [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after dinner [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the class [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the class [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the interview [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the interview [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the game [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the game [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the wedding [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the wedding [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the exam [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the exam [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the rehearsal [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the rehearsal [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the performance [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the performance [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the audition [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the audition [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the festival [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the festival [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the workshop [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the workshop [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the appointment [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the appointment [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the parade [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the parade [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the match [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the match [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the event [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the event [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the test [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the test [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the discussion [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the discussion [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the session [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the session [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the musical [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the musical [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the concert [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the concert [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the party [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the party [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the trip [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the trip [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the break [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the break [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the tour [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the tour [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the speech [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the speech [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the announcement [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the announcement [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the briefing [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the briefing [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after camping [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after camping [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after dancing [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after dancing [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after swimming [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after swimming [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after biking [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after biking [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after skating [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after skating [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after hiking [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after hiking [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after work [MASK]? ,tomorrow
+Subject-Extraction,Who do you wanna come after work [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after training [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after training [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the workout [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the workout [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after cleaning [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after cleaning [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the presentation [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the presentation [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the shift [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the shift [MASK]?,tomorrow
+Object-Extraction,Who do you wanna see after the debate [MASK]?,tomorrow
+Subject-Extraction,Who do you wanna come after the debate [MASK]?,tomorrow

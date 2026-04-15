@@ -1,0 +1,201 @@
+TYPE,SENTENCE
+Object-Extraction,Who do you wanna take to the station tomorrow?
+Subject-Extraction,Who do you wanna go to the station tomorrow?
+Object-Extraction,Who do you wanna take to the airport tomorrow?
+Subject-Extraction,Who do you wanna go to the airport tomorrow?
+Object-Extraction,Who do you wanna take to the library tomorrow?
+Subject-Extraction,Who do you wanna go to the library tomorrow?
+Object-Extraction,Who do you wanna take to the museum tomorrow?
+Subject-Extraction,Who do you wanna go to the museum tomorrow?
+Object-Extraction,Who do you wanna take to the hospital tomorrow?
+Subject-Extraction,Who do you wanna go to the hospital tomorrow?
+Object-Extraction,Who do you wanna take to the university tomorrow?
+Subject-Extraction,Who do you wanna go to the university tomorrow?
+Object-Extraction,Who do you wanna take to the restaurant tomorrow?
+Subject-Extraction,Who do you wanna go to the restaurant tomorrow?
+Object-Extraction,Who do you wanna take to the zoo tomorrow?
+Subject-Extraction,Who do you wanna go to the zoo tomorrow?
+Object-Extraction,Who do you wanna take to the hotel tomorrow?
+Subject-Extraction,Who do you wanna go to the hotel tomorrow?
+Object-Extraction,Who do you wanna take to the office tomorrow?
+Subject-Extraction,Who do you wanna go to the office tomorrow?
+Object-Extraction,Who do you wanna take to the school tomorrow?
+Subject-Extraction,Who do you wanna go to the school tomorrow?
+Object-Extraction,Who do you wanna take to the bank tomorrow?
+Subject-Extraction,Who do you wanna go to the bank tomorrow?
+Object-Extraction,Who do you wanna take to the beach tomorrow?
+Subject-Extraction,Who do you wanna go to the beach tomorrow?
+Object-Extraction,Who do you wanna take to the concert tomorrow?
+Subject-Extraction,Who do you wanna go to the concert tomorrow?
+Object-Extraction,Who do you wanna take to the store tomorrow?
+Subject-Extraction,Who do you wanna go to the store tomorrow?
+Object-Extraction,Who do you wanna take to the bus stop tomorrow?
+Subject-Extraction,Who do you wanna go to the bus stop tomorrow?
+Object-Extraction,Who do you wanna take to the classroom tomorrow?
+Subject-Extraction,Who do you wanna go to the classroom tomorrow?
+Object-Extraction,Who do you wanna take to the park tomorrow?
+Subject-Extraction,Who do you wanna go to the park tomorrow?
+Object-Extraction,Who do you wanna take to the mall tomorrow?
+Subject-Extraction,Who do you wanna go to the mall tomorrow?
+Object-Extraction,Who do you wanna take to the shop tomorrow?
+Subject-Extraction,Who do you wanna go to the shop tomorrow?
+Object-Extraction,Who do you wanna take to the amusement park tomorrow?
+Subject-Extraction,Who do you wanna go to the amusement park tomorrow?
+Object-Extraction,Who do you wanna take to the aquarium tomorrow?
+Subject-Extraction,Who do you wanna go to the aquarium tomorrow?
+Object-Extraction,Who do you wanna take to the theater tomorrow?
+Subject-Extraction,Who do you wanna go to the theater tomorrow?
+Object-Extraction,Who do you wanna take to the basement tomorrow?
+Subject-Extraction,Who do you wanna go to the basement tomorrow?
+Object-Extraction,Who do you wanna take to the toy store tomorrow?
+Subject-Extraction,Who do you wanna go to the toy store tomorrow?
+Object-Extraction,Who do you wanna take to the bookstore tomorrow?
+Subject-Extraction,Who do you wanna go to the bookstore tomorrow?
+Object-Extraction,Who do you wanna take to the bakery tomorrow?
+Subject-Extraction,Who do you wanna go to the bakery tomorrow?
+Object-Extraction,Who do you wanna take to the terminal tomorrow?
+Subject-Extraction,Who do you wanna go to the terminal tomorrow?
+Object-Extraction,Who do you wanna take to the coffee shop tomorrow?
+Subject-Extraction,Who do you wanna go to the coffee shop tomorrow?
+Object-Extraction,Who do you wanna take to the market tomorrow?
+Subject-Extraction,Who do you wanna go to the market tomorrow?
+Object-Extraction,Who do you wanna take to the gallery tomorrow?
+Subject-Extraction,Who do you wanna go to the gallery tomorrow?
+Object-Extraction,Who do you wanna take to the shopping mall tomorrow?
+Subject-Extraction,Who do you wanna go to the shopping mall tomorrow?
+Object-Extraction,Who do you wanna take to the post office tomorrow?
+Subject-Extraction,Who do you wanna go to the post office tomorrow?
+Object-Extraction,Who do you wanna take to the clinic tomorrow?
+Subject-Extraction,Who do you wanna go to the clinic tomorrow?
+Object-Extraction,Who do you wanna take to the gym tomorrow?
+Subject-Extraction,Who do you wanna go to the gym tomorrow?
+Object-Extraction,Who do you wanna take to the pool tomorrow?
+Subject-Extraction,Who do you wanna go to the pool tomorrow?
+Object-Extraction,Who do you wanna take to the party tomorrow?
+Subject-Extraction,Who do you wanna go to the party tomorrow?
+Object-Extraction,Who do you wanna take to the show tomorrow?
+Subject-Extraction,Who do you wanna go to the show tomorrow?
+Object-Extraction,Who do you wanna take to the festival tomorrow?
+Subject-Extraction,Who do you wanna go to the festival tomorrow?
+Object-Extraction,Who do you wanna take to the audition tomorrow?
+Subject-Extraction,Who do you wanna go to the audition tomorrow?
+Object-Extraction,Who do you wanna take to the competition tomorrow?
+Subject-Extraction,Who do you wanna go to the competition tomorrow?
+Object-Extraction,Who do you wanna take to the race tomorrow?
+Subject-Extraction,Who do you wanna go to the race tomorrow?
+Object-Extraction,Who do you wanna take to the contest tomorrow?
+Subject-Extraction,Who do you wanna go to the contest tomorrow?
+Object-Extraction,Who do you wanna take to the match tomorrow?
+Subject-Extraction,Who do you wanna go to the match tomorrow?
+Object-Extraction,Who do you wanna take to the wedding tomorrow?
+Subject-Extraction,Who do you wanna go to the wedding tomorrow?
+Object-Extraction,Who do you wanna take to the ceremony tomorrow?
+Subject-Extraction,Who do you wanna go to the ceremony tomorrow?
+Object-Extraction,Who do you wanna take to the rally tomorrow?
+Subject-Extraction,Who do you wanna go to the rally tomorrow?
+Object-Extraction,Who do you wanna take to the seminar tomorrow?
+Subject-Extraction,Who do you wanna go to the seminar tomorrow?
+Object-Extraction,Who do you wanna take to the conference tomorrow?
+Subject-Extraction,Who do you wanna go to the conference tomorrow?
+Object-Extraction,Who do you wanna take to the meeting tomorrow?
+Subject-Extraction,Who do you wanna go to the meeting tomorrow?
+Object-Extraction,Who do you wanna see after the meeting tomorrow?
+Subject-Extraction,Who do you wanna come after the meeting tomorrow?
+Object-Extraction,Who do you wanna see after the lecture tomorrow?
+Subject-Extraction,Who do you wanna come after the lecture tomorrow?
+Object-Extraction,Who do you wanna see after the show tomorrow?
+Subject-Extraction,Who do you wanna come after the show tomorrow?
+Object-Extraction,Who do you wanna see after the contest tomorrow?
+Subject-Extraction,Who do you wanna come after the contest tomorrow?
+Object-Extraction,Who do you wanna see after the ceremony tomorrow?
+Subject-Extraction,Who do you wanna come after the ceremony tomorrow?
+Object-Extraction,Who do you wanna see after the conference tomorrow?
+Subject-Extraction,Who do you wanna come after the conference tomorrow?
+Object-Extraction,Who do you wanna see after the race tomorrow?
+Subject-Extraction,Who do you wanna come after the race tomorrow?
+Object-Extraction,Who do you wanna see after school tomorrow?
+Subject-Extraction,Who do you wanna come after school tomorrow?
+Object-Extraction,Who do you wanna see after breakfast tomorrow?
+Subject-Extraction,Who do you wanna come after breakfast tomorrow?
+Object-Extraction,Who do you wanna see after lunch tomorrow?
+Subject-Extraction,Who do you wanna come after lunch tomorrow?
+Object-Extraction,Who do you wanna see after dinner tomorrow?
+Subject-Extraction,Who do you wanna come after dinner tomorrow?
+Object-Extraction,Who do you wanna see after the class tomorrow?
+Subject-Extraction,Who do you wanna come after the class tomorrow?
+Object-Extraction,Who do you wanna see after the interview tomorrow?
+Subject-Extraction,Who do you wanna come after the interview tomorrow?
+Object-Extraction,Who do you wanna see after the game tomorrow?
+Subject-Extraction,Who do you wanna come after the game tomorrow?
+Object-Extraction,Who do you wanna see after the wedding tomorrow?
+Subject-Extraction,Who do you wanna come after the wedding tomorrow?
+Object-Extraction,Who do you wanna see after the exam tomorrow?
+Subject-Extraction,Who do you wanna come after the exam tomorrow?
+Object-Extraction,Who do you wanna see after the rehearsal tomorrow?
+Subject-Extraction,Who do you wanna come after the rehearsal tomorrow?
+Object-Extraction,Who do you wanna see after the performance tomorrow?
+Subject-Extraction,Who do you wanna come after the performance tomorrow?
+Object-Extraction,Who do you wanna see after the audition tomorrow?
+Subject-Extraction,Who do you wanna come after the audition tomorrow?
+Object-Extraction,Who do you wanna see after the festival tomorrow?
+Subject-Extraction,Who do you wanna come after the festival tomorrow?
+Object-Extraction,Who do you wanna see after the workshop tomorrow?
+Subject-Extraction,Who do you wanna come after the workshop tomorrow?
+Object-Extraction,Who do you wanna see after the appointment tomorrow?
+Subject-Extraction,Who do you wanna come after the appointment tomorrow?
+Object-Extraction,Who do you wanna see after the parade tomorrow?
+Subject-Extraction,Who do you wanna come after the parade tomorrow?
+Object-Extraction,Who do you wanna see after the match tomorrow?
+Subject-Extraction,Who do you wanna come after the match tomorrow?
+Object-Extraction,Who do you wanna see after the event tomorrow?
+Subject-Extraction,Who do you wanna come after the event tomorrow?
+Object-Extraction,Who do you wanna see after the test tomorrow?
+Subject-Extraction,Who do you wanna come after the test tomorrow?
+Object-Extraction,Who do you wanna see after the discussion tomorrow?
+Subject-Extraction,Who do you wanna come after the discussion tomorrow?
+Object-Extraction,Who do you wanna see after the session tomorrow?
+Subject-Extraction,Who do you wanna come after the session tomorrow?
+Object-Extraction,Who do you wanna see after the musical tomorrow?
+Subject-Extraction,Who do you wanna come after the musical tomorrow?
+Object-Extraction,Who do you wanna see after the concert tomorrow?
+Subject-Extraction,Who do you wanna come after the concert tomorrow?
+Object-Extraction,Who do you wanna see after the party tomorrow?
+Subject-Extraction,Who do you wanna come after the party tomorrow?
+Object-Extraction,Who do you wanna see after the trip tomorrow?
+Subject-Extraction,Who do you wanna come after the trip tomorrow?
+Object-Extraction,Who do you wanna see after the break tomorrow?
+Subject-Extraction,Who do you wanna come after the break tomorrow?
+Object-Extraction,Who do you wanna see after the tour tomorrow?
+Subject-Extraction,Who do you wanna come after the tour tomorrow?
+Object-Extraction,Who do you wanna see after the speech tomorrow?
+Subject-Extraction,Who do you wanna come after the speech tomorrow?
+Object-Extraction,Who do you wanna see after the announcement tomorrow?
+Subject-Extraction,Who do you wanna come after the announcement tomorrow?
+Object-Extraction,Who do you wanna see after the briefing tomorrow?
+Subject-Extraction,Who do you wanna come after the briefing tomorrow?
+Object-Extraction,Who do you wanna see after camping tomorrow?
+Subject-Extraction,Who do you wanna come after camping tomorrow?
+Object-Extraction,Who do you wanna see after dancing tomorrow?
+Subject-Extraction,Who do you wanna come after dancing tomorrow?
+Object-Extraction,Who do you wanna see after swimming tomorrow?
+Subject-Extraction,Who do you wanna come after swimming tomorrow?
+Object-Extraction,Who do you wanna see after biking tomorrow?
+Subject-Extraction,Who do you wanna come after biking tomorrow?
+Object-Extraction,Who do you wanna see after skating tomorrow?
+Subject-Extraction,Who do you wanna come after skating tomorrow?
+Object-Extraction,Who do you wanna see after hiking tomorrow?
+Subject-Extraction,Who do you wanna come after hiking tomorrow?
+Object-Extraction,Who do you wanna see after work tomorrow? 
+Subject-Extraction,Who do you wanna come after work tomorrow?
+Object-Extraction,Who do you wanna see after training tomorrow?
+Subject-Extraction,Who do you wanna come after training tomorrow?
+Object-Extraction,Who do you wanna see after the workout tomorrow?
+Subject-Extraction,Who do you wanna come after the workout tomorrow?
+Object-Extraction,Who do you wanna see after cleaning tomorrow?
+Subject-Extraction,Who do you wanna come after cleaning tomorrow?
+Object-Extraction,Who do you wanna see after the presentation tomorrow?
+Subject-Extraction,Who do you wanna come after the presentation tomorrow?
+Object-Extraction,Who do you wanna see after the shift tomorrow?
+Subject-Extraction,Who do you wanna come after the shift tomorrow?
+Object-Extraction,Who do you wanna see after the debate tomorrow?
+Subject-Extraction,Who do you wanna come after the debate tomorrow?
